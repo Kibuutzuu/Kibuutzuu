@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=30&pause=1000&color=FFFFFF&width=435&lines=%E2%99%A6+Hi+there%2C+I'm+Joaqu%C3%ADn%F0%9F%91%8B+%E2%99%A6;Always+learning;%F0%9F%8C%99Always+looking+to+the+future%F0%9F%8C%99)](https://git.io/typing-svg)
-## ♦ Hi there, i'm Joaquín👋 ♦<br><br>I'm a Computer science student at UTFSM<br><br>🂱 Skills & Practice<br><br>Basic programming in C#, C++ and Python.<br>Constant curiosity! Always asking, learning and exploring!<br><br>🂲 Fun facts<br><br>- I like learning in community<br>- I enjoy read and games
+## <br>I'm a Computer science student at UTFSM<br><br>🂱 Skills & Practice<br><br>Basic programming in C#, C++ and Python.<br>Constant curiosity! Always asking, learning and exploring!<br><br>🂲 Fun facts<br><br>- I like learning in community<br>- I enjoy read and games
 
 
 ## 🌐 Socials:
